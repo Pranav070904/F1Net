@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep important files
+!.gitignore
+!*.py
+!*.ipynb
+!*.png
+
+# Allow the entire data folder
+!data/
+!data/*.csv
